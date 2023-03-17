@@ -59,5 +59,8 @@ Afterwards, I divide the data by the level of rating grades and plot the
 relationship between monthly income and borrower rate. I have made sure to use 
 different color palettes to represent each rating grade.
 
+## Feedback from Udacity reviewer
+View the feedback [here](https://drive.google.com/file/d/1nWCkORIO8vwVC1g16F3MSZKeZzdzyDjz/view?usp=sharing)
+
 Warm Regards,
 #### Olamide Emida
