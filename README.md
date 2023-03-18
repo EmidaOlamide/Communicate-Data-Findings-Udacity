@@ -4,7 +4,7 @@
 
 This data set contains 113,937 loans with 81 variables on each loan, including 
 loan amount, borrower rate (or interest rate), current loan status, borrower income, 
-and many others. The dataset can be found [here](https://www.google.com/url?q=https://s3.amazonaws.com/udacity-hosted-downloads/ud651/prosperLoanData.csv&sa=D&ust=1581581520570000)
+and many others. The dataset is too large for GitHub. So It can be found [here](https://www.google.com/url?q=https://s3.amazonaws.com/udacity-hosted-downloads/ud651/prosperLoanData.csv&sa=D&ust=1581581520570000)
 
 The following data wrangling were performed before I started the exploration: 
 1. Selected my variables of interest
